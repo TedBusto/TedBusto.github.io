@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-oakleafscouts.com	TRUE	/	FALSE	1999999999	_wp_travel_session	1db203eddfa05c638da5219dc7483f61%7C%7C1601405307%7C%7C1601404947
-
